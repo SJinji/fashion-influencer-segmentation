@@ -144,4 +144,3 @@ For questions or feedback, feel free to reach out:
 **Email:** jinji.shen@essec.edu
 
 **LinkedIn:** https://www.linkedin.com/in/jinji-shen-363aa0125/
-```
