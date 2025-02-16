@@ -1,3 +1,7 @@
+-- Q2: Enhanced Segmentation 
+-- Author: Jinji Shen
+-- Date: 2025-02-16
+
 WITH 
 -- Step 1: Create base author segments with NULL handling
 account_base AS (

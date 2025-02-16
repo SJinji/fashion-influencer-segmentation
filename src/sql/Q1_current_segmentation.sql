@@ -1,3 +1,7 @@
+-- Q1: Current Segmentation Analysis
+-- Author: Jinji Shen
+-- Date: 2025-02-16
+
 -- Segment Analysis
 WITH segments AS (
    SELECT 
