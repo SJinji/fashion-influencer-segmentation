@@ -1,6 +1,6 @@
 # Heuritech Technical Test Submission
 
-This repository contains my submission for the Heuritech Senior Data Scientist technical test. The project focuses on **social media account segmentation** using fashion-related data. The goal is to analyze and improve the current segmentation methodology, providing actionable insights into user behavior and fashion trends.
+This repository contains my submission for the Heuritech Data Scientist technical test. The project focuses on **social media account segmentation** using fashion-related data. The goal is to analyze and improve the current segmentation methodology, providing actionable insights into user behavior and fashion trends.
 
 ---
 
