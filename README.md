@@ -46,8 +46,8 @@ This approach lacks granularity and fails to capture nuanced categories like **l
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SJinji/heuritech-technical-test.git
-cd heuritech-technical-test
+git clone https://github.com/SJinji/fashion-influencer-segmentation.git
+cd fashion-influencer-segmentation
 ```
 
 ### 2. Install Dependencies
